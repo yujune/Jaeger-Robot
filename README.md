@@ -1,7 +1,7 @@
 # Jaeger-Robot
 
 ## Jaeger 360 view
-![Jaeger 360](https://github.com/yujune/Jaeger-Robot/blob/main/jaeger_screenshot/jaeger360.gif)
+<img src="https://github.com/yujune/Jaeger-Robot/blob/main/jaeger_screenshot/jaeger360.gif" alt="Jaeger 360" width="430"/>
 
 ## Jaeger's world 360 view
 ![Jaeger_world 360](https://github.com/yujune/Jaeger-Robot/blob/main/jaeger_screenshot/jaeger_world.gif)
